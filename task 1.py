@@ -1,0 +1,5 @@
+name = input('как вас зовут? ')
+surname = input('как ваша фамилия? ')
+age = int(input('сколько вам целых лет? '))
+height = int(input('какой ваш рост в сантиметрах? '))
+print(f'добрый день, {name} {surname}! ваш возраст: {age}, ваш рост: {height}')
